@@ -1,5 +1,7 @@
 import UIKit
 
+//  Decimal of 1010100 is 84.
+
 var number = 1010100
 var answer = 0
 var multiply = 1
