@@ -38,3 +38,11 @@ func binarySearch(_ array:[Int], _ number: Int) -> Int{
     return -1
 }
   
+
+
+//  output: 1
+
+
+
+
+
